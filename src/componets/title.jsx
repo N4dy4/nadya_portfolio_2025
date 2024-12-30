@@ -1,11 +1,11 @@
-import react from "@vitejs/plugin-react-swc";
+import React from 'react';
 
 const Title = () => {
     return (
-        <>
-            <h1>Hello, My name is Nadya</h1>
-        </>
+    <>
+        <h1 className='text-xl, font-bold, bg-secondary'>Hello, My name is Nadya</h1>
+    </>
     );
 };
 
-export default Title;
+export default Title; 
