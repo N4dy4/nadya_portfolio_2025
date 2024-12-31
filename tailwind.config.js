@@ -1,6 +1,7 @@
 module.exports = {
     content: [
         "./src/**/*.{html,js,jsx,ts,tsx}",
+        './src/navbar/navbar.jsx'
     ],
     theme: {
         screens: {
@@ -28,8 +29,7 @@ module.exports = {
             }
         },
     },
-    plugins: [require ("daisyui")],
-    daisyui: {
-        themes: ["valentine"],
-    },
-};
+    plugins: [
+        require ("daisyui"),
+        require('@tailwindcss/typography'),]
+}
