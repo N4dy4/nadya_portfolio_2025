@@ -1,0 +1,53 @@
+
+
+:root {
+  background: #ffbcda;
+  height: 1497px;
+  position: relative;
+  overflow: scroll;
+}
+.nadya-resume-2025-1-1 {
+  width: 1000px;
+  height: 1294.12px;
+  position: absolute;
+  left: 8px;
+  top: 167px;
+  object-fit: cover;
+}
+.rectangle-1 {
+  background: #f04195;
+  width: 1000px;
+  height: 150px;
+  position: absolute;
+  left: 8px;
+  top: 35px;
+}
+.resume {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Nerko One", serif;
+  font-size: 75px;
+  font-weight: 400;
+  position: absolute;
+  left: 41px;
+  top: 71px;
+  width: 327px;
+  height: 74px;
+}
+.rectangle-2 {
+  background: #ffffff;
+  border-radius: 20px;
+  width: 70px;
+  height: 48px;
+  position: absolute;
+  left: 909px;
+  top: 84px;
+}
+.untitled-15-20250106143633-1 {
+  width: 63px;
+  height: 63px;
+  position: absolute;
+  left: 912px;
+  top: 79px;
+  object-fit: cover;
+}
